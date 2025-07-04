@@ -46,11 +46,10 @@ I’m passionate about **learning**, **teaching others**, and **contributing to 
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unathimonjane14&show_icons=true&theme=radical)
-
----
 
 ## 🌐 Connect With Me
-- 🌍 [LinkedIn](https://linkedin.com/in/unathimonjane14)
-- 📸 [Instagram](https://instagram.com/Bathathe14)
+- 💼 [LinkedIn](https://www.linkedin.com/in/unathi-monjane-832a38240)
+- 📸 [Instagram](https://www.instagram.com/bathathe14_sa)
+- 👍 [Facebook](https://www.facebook.com/Bathathe14)
+- ▶️ [YouTube](https://www.youtube.com/@bathathe14_sa)
+- 🎵 [TikTok](https://www.tiktok.com/@bathathe14_rsa)
